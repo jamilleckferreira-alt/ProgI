@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "bb-pessoa"
+version = "0.1.0"
+description = ""
+authors = ["Hylson <hvescovi@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pymysql = "^1.2.0"
+mysql-connector-python = "^9.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
