@@ -1,0 +1,9 @@
+[project]
+name = "02-minimo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.66.0",
+]
